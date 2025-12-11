@@ -16,28 +16,6 @@ You will receive a confirmation when the deletion process begins.
 
 ---
 
-## 🗑️ What Data Will Be Deleted
-
-When you request account deletion, the following data will be removed:
-
-- All invoice-related data created or submitted by you  
-- Text and voice descriptions used for invoice generation  
-- Digital signatures and photo attachments  
-- Saved invoice templates  
-- Any other user-generated content stored by the application
-
----
-
-## 🗂️ What Data May Be Retained
-
-Some data may be retained if required for:
-- Legal, taxation, or accounting compliance  
-- Fraud prevention or security purposes  
-
-Such data is stored only for the minimum period required by applicable laws.
-
----
-
 ## ⏱️ Data Deletion Timeline
 
 - Your deletion request will be processed within **30 days**.  
